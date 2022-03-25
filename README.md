@@ -106,3 +106,11 @@ python3 bot.py
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [AbHishek](https://t.me/abhisheksvlog)                                                                                                                                        
 𝙶𝚁𝙾𝚄𝙿 ›› [Cinema Malayalam ](https://t.me/CinemaEnglish123)                                             
 Collabareter ›› [Joel Kurian Biju](https://t.me/CreatorBeatz)
+
+
+# anime-LINK-bot
+
+### Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cshowl/ANIME_LINK_BOT)
+
