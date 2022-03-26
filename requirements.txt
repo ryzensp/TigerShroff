@@ -55,9 +55,9 @@ datetime
 PyDictionary==2.0.1
 PyPDF2
 pypdf2
-prettyconf==2.2.1
-cachetools==4.2.4
-spamwatch>=0.3.0
+prettyconf
+cachetools
+spamwatch
 mapping
 telethon
 yt-dlp
