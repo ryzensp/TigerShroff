@@ -168,7 +168,7 @@ async def next_page(bot, query):
         )
     except MessageNotModified:
         pass
-    await query.answer(
+    await query.answer()
 
 
 @Client.on_callback_query(filters.regex(r"^spolling"))
