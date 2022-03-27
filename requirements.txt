@@ -52,7 +52,6 @@ ujson
 pyshorteners
 asyncio==3.4.3
 datetime
-PyDictionary
 PyPDF2
 pypdf2
 prettyconf
