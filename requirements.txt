@@ -55,3 +55,10 @@ datetime
 PyDictionary
 PyPDF2
 pypdf2
+prettyconf
+cachetools
+spamwatch
+mapping
+telethon
+yt-dlp
+shazamio
