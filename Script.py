@@ -24,7 +24,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ </a>
 ║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - EvaMaria
 ║➠ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 -  <a href='https://dashboard.heroku.com/apps'>𝑯𝒆𝒓𝒐𝒌𝒖</a>
-║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/TigerShroffimdbot'>𝒗8.7.2[𝑴𝒂𝒋𝒐𝒓]</a>
+║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/iAmLiKu1'>𝒗8.7.2[𝑴𝒂𝒋𝒐𝒓]</a>
 ║➠ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href='https://github.com/EvaMariaTG/EvaMaria'>𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍
     
