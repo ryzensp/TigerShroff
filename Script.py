@@ -18,8 +18,8 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
 ║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  Tiger Shroff
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1951205538'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a>
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/Abhisheksvlog'>Everyone in this journey </a>
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href="https://t.me/iAmLiKu1"> ❥ℭ𝐒 ‣ ᏂᎧᏇᏝ⚡ </a>
+║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/iAmLiKu1'>Everyone in this journey </a>
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3 </a>
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ </a>
 ║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - EvaMaria
@@ -30,7 +30,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..
     
 
 
-🔖 𝑸𝒖𝒐𝒕𝒆 : ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും ™️"""
+🔖 𝑸𝒖𝒐𝒕𝒆 : Everyone gets what no one should be afraid of ™️"""
 
     MAMMOKA_TXT = """𝐂𝐀𝐔𝐓𝐈𝐎𝐍 : <b>Iᴋᴋᴀ Fᴀɴs Aʀᴇ Pʀᴏʜɪʙɪᴛᴇᴅ Nᴇᴀʀ Tʜɪs ᴀʀᴇᴀ</b> 
     
