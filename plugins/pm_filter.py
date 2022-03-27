@@ -155,8 +155,8 @@ async def next_page(bot, query):
             )
     btn.insert(0,
             [
-                InlineKeyboardButton("⭕️ Group", url="https://t.me/cinemaenglish123"),
-                InlineKeyboardButton("Dev ⭕️", url="https://t.me/abhisheksvlog")
+                InlineKeyboardButton("⭕️ Group", url="https://t.me/+2sQ2BQEEAlhlMjUx"),
+                InlineKeyboardButton("Dev ⭕️", url="https://t.me/iAmLiKu1")
             ])
 
     btn.insert(0, [
@@ -168,7 +168,7 @@ async def next_page(bot, query):
         )
     except MessageNotModified:
         pass
-    await query.answer()
+    await query.answer(
 
 
 @Client.on_callback_query(filters.regex(r"^spolling"))
@@ -408,11 +408,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/MovieHubOfficialGroup'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/Abhisheksvlog')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/+2sQ2BQEEAlhlMjUx'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/iAmLiKu1')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/justaupdatechannel')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/+tkAjvYxAr7VmZjY1')
         ]
         ]
 
@@ -461,11 +461,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{title}"
         buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/MovieHubOfficialGroup'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/Abhisheksvlog')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/+2sQ2BQEEAlhlMjUx'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/iAmLiKu1')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/justaupdatechannel')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/+tkAjvYxAr7VmZjY1')
         ]
         ]
         await query.answer()
@@ -718,10 +718,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔍𝚂𝚎𝚊𝚛𝚌𝚑 𝙷𝚎𝚛𝚎 𝙼𝚘𝚟𝚒𝚎🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛', url='https://t.me/ABHISHEKSVLOG'),
-            InlineKeyboardButton('𝙶𝚛𝚘𝚞𝚙', url='https://t.me/MovieHubOfficialGroup')
+            InlineKeyboardButton('𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛', url='https://t.me/iAmLiKu1'),
+            InlineKeyboardButton('𝙶𝚛𝚘𝚞𝚙', url='https://t.me/+2sQ2BQEEAlhlMjUx')
             ],[
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕', url='https://t.me/Justaupdatechannel'),
+            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕', url='https://t.me/+tkAjvYxAr7VmZjY1'),
             ],[
             InlineKeyboardButton('✗ 𝙲𝚕𝚘𝚜𝚎 𝚃𝚑𝚎 𝙼𝚎𝚗𝚞 ✗', callback_data='close_data')
         ]]
@@ -912,7 +912,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔍𝚂𝚎𝚊𝚛𝚌𝚑 𝙼𝚘𝚟𝚒𝚎🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('🍿𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙶𝚛𝚘𝚞𝚙🍿', url='https://t.me/MovieHubOfficialGroup')
+            InlineKeyboardButton('🍿𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙶𝚛𝚘𝚞𝚙🎟️', url='https://t.me/+2sQ2BQEEAlhlMjUx')
             ],[
             InlineKeyboardButton('𝙷𝚎𝚕𝚙 & 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜', callback_data='help')
             ],[
@@ -1543,14 +1543,14 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="NEXT ⏩", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="⭕️ Join Our Channel ⭕️",url="https://t.me/Justaupdatechannel")]
+            [InlineKeyboardButton(text="⭕️ Join Our Channel ⭕️",url="https://t.me/+tkAjvYxAr7VmZjY1")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="🗓 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="⭕️ Join Our Channel ⭕️",url="https://t.me/JUSTAUPDATECHANNEL")]
+            [InlineKeyboardButton(text="⭕️ Join Our Channel ⭕️",url="https://t.me/+tkAjvYxAr7VmZjY1")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
