@@ -178,7 +178,7 @@ async def help(client, message):
             InlineKeyboardButton('ᴘᴜʀɢᴇ', callback_data='purge'),
             ],[
             InlineKeyboardButton('ʀᴜʟᴇs', callback_data='rule'),
-            InlineKeyboardButton('𝚄𝚛𝚕-𝚂𝚑𝚘𝚛𝚝𝚗𝚎𝚛', callback_data='url'),
+            InlineKeyboardButton('ᴜʀʟ-sʜᴏʀᴛ', callback_data='url'),
             InlineKeyboardButton('ᴛᴏʀʀᴇɴᴛ', callback_data='torrent'),
             ],[
             InlineKeyboardButton('ᴡᴀʀɴ', callback_data='warn'),
