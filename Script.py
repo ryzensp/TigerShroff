@@ -47,12 +47,22 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..
  
  Tʜᴇɴ Mᴀʟʟᴜ Aᴜɴᴛʏ Wɪʟʟ Tᴇxᴛ Yᴏᴜ Sᴏᴍᴇ Jᴏᴋᴇs 😂😂 """
 
-    ABOUTME_TXT = """<b>🥱 My Name : see my name on the top
-🕵‍♂ Developer : <a href='https://t.me/iAmLiKu1'>𓆩♡⃤°•°ℭ𝐒 ‣ ᏂᎧᏇᏝ✮͢🦋⃟≛⃝</a>
-📚 Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-🖥 Language : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-🎪 Data Base : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-🔋 Updates : @cs_cloud </b>"""
+    ABOUTME_TXT = """
+<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href='https://t.me/Cshowl_bot'>sᴇᴇ ᴏɴ ᴛɢᴇ ᴛᴏᴘ</a>
+
+📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a>
+
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://github.com/pyrogram/pyrogram'>ᴘʏʀᴏɢʀᴀᴍ</a>
+
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
+
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/iAmLiKu1'>ʟɪᴋᴜ ᴄs ♔︎</a>
+
+💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/iAmLiKu1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/+oMiWi94WoAQ0MmY5'>ᴍᴏᴠɪᴇs ᴄʟᴜʙ</a>
+
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/+qdq5ZO_xDytkYzJl'>ᴍᴏᴠɪᴇs ᴄʟᴜʙ</a>
 
     NEXT_TXT = """Welcome To My Second Help Module"""
 
