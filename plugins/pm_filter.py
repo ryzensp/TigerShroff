@@ -905,19 +905,19 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙲𝚑𝚊𝚝', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴏᴜʀ ᴄʜᴀᴛ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('𝚂𝚝𝚊𝚝𝚞𝚜', callback_data='stats'),
+            InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats'),
             InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎', callback_data='source')
             ],[
-            InlineKeyboardButton('🔍𝚂𝚎𝚊𝚛𝚌𝚑 𝙼𝚘𝚟𝚒𝚎🔎', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ ʜᴇʀᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('🍿𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙶𝚛𝚘𝚞𝚙🎟️', url='https://t.me/+2sQ2BQEEAlhlMjUx')
+            InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ🎟️', url='https://t.me/+2sQ2BQEEAlhlMjUx')
             ],[
-            InlineKeyboardButton('𝙷𝚎𝚕𝚙 & 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜', callback_data='help')
+            InlineKeyboardButton('ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs', callback_data='help')
             ],[
-            InlineKeyboardButton('« 𝙱𝚊𝚌𝚔', callback_data='start'),
-            InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 ✗', callback_data='close_data'),
+            InlineKeyboardButton('« ʙᴀᴄᴋ', callback_data='start'),
+            InlineKeyboardButton('ᴄʟᴏsᴇ ✗', callback_data='close_data'),
         ]]
         await query.message.edit_text(
             text="⭗ ⭗ ⭗ ⭗ ⭗ ⭗"
@@ -1540,17 +1540,17 @@ async def auto_filter(client, msg, spoll=False):
         req = message.from_user.id if message.from_user else 0
         btn.append(
             [InlineKeyboardButton(text=f"🗓 1/{round(int(total_results) / 10)}", callback_data="pages"),
-             InlineKeyboardButton(text="NEXT ⏩", callback_data=f"next_{req}_{key}_{offset}")]
+             InlineKeyboardButton(text="NEXT ➪", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="⭕️ Join Our Channel ⭕️",url="https://t.me/+tkAjvYxAr7VmZjY1")]
+            [InlineKeyboardButton(text="⭕️ Jᴏɪɴ ᴏᴜʀ Cʜᴀɴɴᴇʟ ⭕️",url="https://t.me/+tkAjvYxAr7VmZjY1")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="🗓 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="⭕️ Join Our Channel ⭕️",url="https://t.me/+tkAjvYxAr7VmZjY1")]
+            [InlineKeyboardButton(text="⭕️ Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ ⭕️",url="https://t.me/+tkAjvYxAr7VmZjY1")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
