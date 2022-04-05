@@ -22,7 +22,7 @@ async def save_group(bot, message):
         if message.chat.id in temp.BANNED_CHATS:
             # Inspired from a boat of a banana tree
             buttons = [[
-                InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/{SUPPORT_CHAT}')
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             k = await message.reply(
@@ -37,17 +37,17 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('help', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('updates', url='https://t.me/+tkAjvYxAr7VmZjY1')
+            InlineKeyboardButton('ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
+            InlineKeyboardButton('UᴘDᴀᴛᴇ', url='https://t.me/+tkAjvYxAr7VmZjY1')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
-            text=f"<b>Thankyou For Adding Me In {message.chat.title}.⚡\n\nIf you have any questions & doubts about using me contact OWNER.</b>",
+            text=f"<b>Tʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴ {message.chat.title}.⚡\n\nIf you have any questions & doubts about using me contact OWNER.</b>",
             reply_markup=reply_markup)
     else:
         for u in message.new_chat_members:
             zaute = [[
-            InlineKeyboardButton('👉 🎥 Press me... 🎥 👈', url="https://t.me/+tkAjvYxAr7VmZjY1")
+            InlineKeyboardButton('👉 🎥 ᴘʀᴇss ᴍᴇ ᴅᴜᴅᴇ... 🎥 👈', url="https://t.me/+tkAjvYxAr7VmZjY1")
         ]]
             if (temp.MELCOW).get('welcome') is not None:
                 try:
