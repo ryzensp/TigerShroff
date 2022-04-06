@@ -1533,8 +1533,7 @@ async def auto_filter(client, msg, spoll=False):
             ]
             for file in files
         ]
-
-    
+  
     if 0 < offset <= 10:
         off_set = 0
     elif offset == 0:
@@ -1569,6 +1568,14 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0, [
         InlineKeyboardButton("🤖 Cʜᴇᴄᴋ ʙᴏᴛ ᴘᴍ ʙʀᴏ 🤖", url=f"https://t.me/{temp.U_NAME}")
     ])
+    try:
+        await query.edit_message_reply_markup(
+            reply_markup=InlineKeyboardMarkup(btn)
+        )
+    except MessageNotModified:
+        pass
+    await query.answer()
+
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
     if imdb:
