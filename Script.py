@@ -63,6 +63,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..
 👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/+oMiWi94WoAQ0MmY5'>ᴍᴏᴠɪᴇs ᴄʟᴜʙ</a>
 
 📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/+qdq5ZO_xDytkYzJl'>ᴍᴏᴠɪᴇs ᴄʟᴜʙ</a>
+\n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>mc gang katter hindu gang</code></b>"""
 
     NEXT_TXT = """Welcome To My Second Help Module"""
 
