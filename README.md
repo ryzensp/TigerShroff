@@ -103,10 +103,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [AbHishek](https://t.me/abhisheksvlog)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [Cinema Malayalam ](https://t.me/CinemaEnglish123)                                             
-Collabareter ›› [Joel Kurian Biju](https://t.me/CreatorBeatz)
-
 
 # anime-LINK-bot
 
