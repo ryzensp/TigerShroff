@@ -47,12 +47,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
-            ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ʜᴇʀᴇ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('ᴅᴇᴠ', url='https://t.me/iAmLiKu1'),
             InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+2sQ2BQEEAlhlMjUx')
-            ],[
             InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/cs_cloud'),
             ],[
             InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ', callback_data='close_data')
@@ -103,12 +101,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
-            ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ʜᴇʀᴇ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('ᴅᴇᴠ', url='https://t.me/iAmLiKu1'),
             InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+2sQ2BQEEAlhlMjUx')
-            ],[
             InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/cs_cloud'),
             ],[
             InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ', callback_data='close_data')
